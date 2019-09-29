@@ -1,13 +1,11 @@
 import React from 'react'
 
-import { AppBar, Toolbar } from '@material-ui/core'
+import Header from '../ecosystems/Header'
 
 const Main: React.FC = () => {
   return (
     <React.Fragment>
-      <AppBar>
-        <Toolbar></Toolbar>
-      </AppBar>
+      <Header />
     </React.Fragment>
   )
 }
