@@ -7,4 +7,4 @@ export default {
   title: 'Ecosystems/Menu'
 }
 
-export const Sample = () => <Menu isOpen={true} close={action('close')} />
+export const Sample = () => <Menu isOpen={false} close={action('close')} />
