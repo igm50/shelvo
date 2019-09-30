@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
-import Header from '../ecosystems/Header'
-import Menu from '../ecosystems/Menu'
+import Header from '../containers/ecosystems/Header'
+import Menu from '../containers/ecosystems/Menu'
 
 const Main: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false)
