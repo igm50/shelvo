@@ -9,7 +9,7 @@ import {
   Divider,
   IconButton
 } from '@material-ui/core'
-import { Input, Drafts, ChevronLeft } from '@material-ui/icons'
+import { Input, Drafts, ChevronLeft, ViewColumn } from '@material-ui/icons'
 
 interface Props {
   isOpen: boolean
@@ -28,15 +28,39 @@ const Menu: React.FC<Props> = props => {
       <List>
         <ListItem button>
           <ListItemIcon>
+            <ViewColumn />
+          </ListItemIcon>
+          <ListItemText>本棚の管理</ListItemText>
+        </ListItem>
+      </List>
+      <Divider />
+      <List>
+        <ListItem>
+          <ListItemIcon>
             <Drafts />
           </ListItemIcon>
-          <ListItemText>サンプル1</ListItemText>
+          <ListItemText>本棚1</ListItemText>
         </ListItem>
+        <ListItem>
+          <ListItemIcon>
+            <Drafts />
+          </ListItemIcon>
+          <ListItemText>本棚2</ListItemText>
+        </ListItem>
+        <ListItem>
+          <ListItemIcon>
+            <Drafts />
+          </ListItemIcon>
+          <ListItemText>本棚3</ListItemText>
+        </ListItem>
+      </List>
+      <Divider />
+      <List>
         <ListItem button>
           <ListItemIcon>
             <Input />
           </ListItemIcon>
-          <ListItemText>サンプル2</ListItemText>
+          <ListItemText>アカウント</ListItemText>
         </ListItem>
       </List>
     </Drawer>
