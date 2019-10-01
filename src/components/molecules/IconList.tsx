@@ -3,7 +3,7 @@ import { List, ListItem, ListItemIcon, ListItemText } from '@material-ui/core'
 import { SvgIconProps } from '@material-ui/core/SvgIcon'
 
 interface Props {
-  iconSetArray: {
+  iconList: {
     Icon: (props: SvgIconProps) => JSX.Element
     title: string
   }[]
@@ -12,7 +12,7 @@ interface Props {
 const MenuList: React.FC<Props> = props => {
   return (
     <List>
-      {props.iconSetArray.map((iconSet, index) => (
+      {props.iconList.map((iconSet, index) => (
         <ListItem button key={index}>
           <ListItemIcon>
             <iconSet.Icon />

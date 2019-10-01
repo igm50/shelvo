@@ -8,11 +8,11 @@ export default {
 }
 
 export const Sample = () => {
-  const iconSetList = [
+  const iconList = [
     { Icon: ViewColumn, title: '本棚の管理' },
     { Icon: ViewCarousel, title: '本棚1' },
     { Icon: ViewCarousel, title: '本棚2' },
     { Icon: ViewCarousel, title: '本棚3' }
   ]
-  return <IconList iconSetArray={iconSetList} />
+  return <IconList iconList={iconList} />
 }

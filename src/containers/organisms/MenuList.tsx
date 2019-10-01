@@ -1,55 +1,24 @@
 import React from 'react'
+import { Divider } from '@material-ui/core'
+import { ViewColumn, ViewCarousel, Accessibility } from '@material-ui/icons'
 
-import {
-  List,
-  ListItem,
-  ListItemIcon,
-  ListItemText,
-  Divider
-} from '@material-ui/core'
-import { Input, Drafts, ViewColumn } from '@material-ui/icons'
+import IconList from '../../components/molecules/IconList'
 
 const MenuList: React.FC = () => {
   return (
     <React.Fragment>
-      <List>
-        <ListItem button>
-          <ListItemIcon>
-            <ViewColumn />
-          </ListItemIcon>
-          <ListItemText>本棚の管理</ListItemText>
-        </ListItem>
-      </List>
+      <IconList iconList={[{ Icon: ViewColumn, title: '本棚の管理' }]} />
       <Divider />
-      <List>
-        <ListItem>
-          <ListItemIcon>
-            <Drafts />
-          </ListItemIcon>
-          <ListItemText>本棚1</ListItemText>
-        </ListItem>
-        <ListItem>
-          <ListItemIcon>
-            <Drafts />
-          </ListItemIcon>
-          <ListItemText>本棚2</ListItemText>
-        </ListItem>
-        <ListItem>
-          <ListItemIcon>
-            <Drafts />
-          </ListItemIcon>
-          <ListItemText>本棚3</ListItemText>
-        </ListItem>
-      </List>
+      <IconList
+        iconList={[
+          { Icon: ViewCarousel, title: '本棚1' },
+          { Icon: ViewCarousel, title: '本棚2' },
+          { Icon: ViewCarousel, title: '本棚3' }
+        ]}
+      />
       <Divider />
-      <List>
-        <ListItem button>
-          <ListItemIcon>
-            <Input />
-          </ListItemIcon>
-          <ListItemText>アカウント</ListItemText>
-        </ListItem>
-      </List>
+      <IconList iconList={[{ Icon: Accessibility, title: 'アカウント' }]} />
+      <Divider />
     </React.Fragment>
   )
 }
