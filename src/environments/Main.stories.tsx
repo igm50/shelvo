@@ -3,7 +3,7 @@ import React from 'react'
 import Main from './Main'
 
 export default {
-  title: 'Environment/Main'
+  title: 'Environments/Main'
 }
 
 export const Sample = () => <Main />
