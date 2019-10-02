@@ -2,11 +2,6 @@ import React from 'react'
 import { Card, CardActionArea, CardMedia } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
 
-declare interface Book {
-  clickEvent: () => void
-  imageSrc: string
-}
-
 interface Props {
   books: Book[]
 }
