@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardActionArea, CardMedia } from '@material-ui/core'
+import { Card, CardActionArea, CardMedia, Grid } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
 
 interface Props {
@@ -8,8 +8,10 @@ interface Props {
 
 const useStyles = makeStyles({
   root: {
-    maxHeight: 300,
-    maxWidth: 200
+    maxWidth: 150
+  },
+  media: {
+    maxWidth: 128
   }
 })
 
@@ -17,15 +19,21 @@ const BookShelf: React.FC<Props> = props => {
   const classes = useStyles()
 
   return (
-    <React.Fragment>
+    <Grid container justify="space-around" spacing={3}>
       {props.books.map((book, index) => (
-        <Card className={classes.root} key={index}>
-          <CardActionArea onClick={book.clickEvent}>
-            <CardMedia component="img" src={book.imageSrc} />
-          </CardActionArea>
-        </Card>
+        <Grid className={classes.root} item key={index}>
+          <Card>
+            <CardActionArea onClick={book.clickEvent}>
+              <CardMedia
+                className={classes.media}
+                component="img"
+                src={book.imageSrc}
+              />
+            </CardActionArea>
+          </Card>
+        </Grid>
       ))}
-    </React.Fragment>
+    </Grid>
   )
 }
 
