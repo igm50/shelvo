@@ -1,5 +1,1036 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots Ecosystems/Contents Sample 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-67"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <img
+            className="MuiCardMedia-root makeStyles-media-69 MuiCardMedia-media"
+            src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          />
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Ecosystems/Header Sample 1`] = `
 <header
   className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionFixed mui-fixed"
@@ -53,53 +1084,1086 @@ exports[`Storyshots Ecosystems/Header Sample 1`] = `
 exports[`Storyshots Ecosystems/Menu Sample 1`] = `null`;
 
 exports[`Storyshots Environments/Main Sample 1`] = `
-<header
-  className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionFixed mui-fixed"
->
+Array [
+  <header
+    className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionFixed mui-fixed"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <button
+        className="MuiButtonBase-root MuiIconButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+            />
+          </svg>
+        </span>
+      </button>
+      <h5
+        className="MuiTypography-root MuiTypography-h5 MuiTypography-noWrap"
+      >
+        Menu
+      </h5>
+    </div>
+  </header>,
   <div
     className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+  <div
+    className="MuiBox-root MuiBox-root-628"
   >
-    <button
-      className="MuiButtonBase-root MuiIconButton-root"
-      disabled={false}
-      onBlur={[Function]}
-      onClick={[Function]}
-      onDragLeave={[Function]}
-      onFocus={[Function]}
-      onKeyDown={[Function]}
-      onKeyUp={[Function]}
-      onMouseDown={[Function]}
-      onMouseLeave={[Function]}
-      onMouseUp={[Function]}
-      onTouchEnd={[Function]}
-      onTouchMove={[Function]}
-      onTouchStart={[Function]}
-      tabIndex={0}
-      type="button"
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
     >
-      <span
-        className="MuiIconButton-label"
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
       >
-        <svg
-          aria-hidden="true"
-          className="MuiSvgIcon-root"
-          focusable="false"
-          role="presentation"
-          viewBox="0 0 24 24"
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
         >
-          <path
-            d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
-          />
-        </svg>
-      </span>
-    </button>
-    <h5
-      className="MuiTypography-root MuiTypography-h5 MuiTypography-noWrap"
-    >
-      Menu
-    </h5>
-  </div>
-</header>
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <button
+            className="MuiButtonBase-root MuiCardActionArea-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <img
+              className="MuiCardMedia-root makeStyles-media-630 MuiCardMedia-media"
+              src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            />
+            <span
+              className="MuiCardActionArea-focusHighlight"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
 `;
 
 exports[`Storyshots Molecules/IconList Sample 1`] = `
@@ -275,6 +2339,1033 @@ exports[`Storyshots Molecules/IconList Sample 1`] = `
     </div>
   </div>
 </ul>
+`;
+
+exports[`Storyshots Organisms/BookShelf Sample 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
+>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-312 MuiGrid-item"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          className="MuiCardMedia-root makeStyles-media-313 MuiCardMedia-media"
+          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        />
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+</div>
 `;
 
 exports[`Storyshots Organisms/MenuList Sample 1`] = `
