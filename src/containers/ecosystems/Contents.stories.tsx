@@ -6,4 +6,5 @@ export default {
   title: 'Ecosystems/Contents'
 }
 
-export const Sample = () => <Contents />
+export const BookShelf = () => <Contents type="BookShelf" />
+export const ManageShelves = () => <Contents type="ManageShelves" />
