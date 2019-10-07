@@ -9,7 +9,6 @@ const categories = [
   'environments'
 ]
 const categoryNumber = id => {
-  console.log(id)
   const categoryName = id.split('-')[0]
   return categories.indexOf(categoryName)
 }
