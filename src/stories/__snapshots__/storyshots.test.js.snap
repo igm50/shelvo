@@ -5,7 +5,7 @@ exports[`Storyshots Ecosystems/Contents Sample 1`] = `
   className="MuiBox-root MuiBox-root-67"
 >
   <div
-    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
   >
     <div
       className="MuiGrid-root makeStyles-root-68 MuiGrid-item"
@@ -1139,7 +1139,7 @@ Array [
     className="MuiBox-root MuiBox-root-628"
   >
     <div
-      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
     >
       <div
         className="MuiGrid-root makeStyles-root-629 MuiGrid-item"
@@ -2343,7 +2343,7 @@ exports[`Storyshots Molecules/IconList Sample 1`] = `
 
 exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 <div
-  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-space-around"
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
 >
   <div
     className="MuiGrid-root makeStyles-root-312 MuiGrid-item"

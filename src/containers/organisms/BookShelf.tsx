@@ -19,7 +19,7 @@ const BookShelf: React.FC<Props> = props => {
   const classes = useStyles()
 
   return (
-    <Grid container justify="space-around" spacing={3}>
+    <Grid container justify="flex-start" spacing={3}>
       {props.books.map((book, index) => (
         <Grid className={classes.root} item key={index}>
           <Card>
