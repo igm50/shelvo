@@ -8,6 +8,7 @@ type GoogleBookItem = {
     authors: string[]
     publisher: string
     publishedDate: string
+    description: string
     industryIdentifiers: {
       type: 'ISBN_10' | 'ISBN_13' | 'OTHER'
       identifier: string
@@ -16,6 +17,9 @@ type GoogleBookItem = {
       smallThumbnail: string
       thumbnail: string
     }
+  }
+  searchInfo?: {
+    textSnippet: string
   }
 }
 
@@ -38,17 +42,30 @@ const GoogleBookSummary: React.FC<Props> = props => {
 
   return (
     <Card className={classes.root}>
-      <CardMedia
-        className={classes.media}
-        component="img"
-        src={
-          props.googleBookItem.volumeInfo.imageLinks
-            ? props.googleBookItem.volumeInfo.imageLinks.thumbnail
-            : ''
-        }
-      />
+      {props.googleBookItem.volumeInfo.imageLinks ? (
+        <CardMedia
+          className={classes.media}
+          component="img"
+          src={
+            props.googleBookItem.volumeInfo.imageLinks
+              ? props.googleBookItem.volumeInfo.imageLinks.thumbnail
+              : ''
+          }
+        />
+      ) : (
+        <CardContent>
+          <Typography>画像はありません。</Typography>
+        </CardContent>
+      )}
       <CardContent>
-        <Typography>{props.googleBookItem.volumeInfo.title}</Typography>
+        <Typography variant="h6">
+          {props.googleBookItem.volumeInfo.title}
+        </Typography>
+        <Typography>
+          {props.googleBookItem.searchInfo
+            ? props.googleBookItem.searchInfo.textSnippet
+            : '概要はありません。'}
+        </Typography>
       </CardContent>
     </Card>
   )

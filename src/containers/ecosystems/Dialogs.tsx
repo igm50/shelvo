@@ -10,7 +10,7 @@ interface Props {
 
 const Dialogs: React.FC<Props> = props => {
   return (
-    <Dialog open={props.isOpen} onClose={props.close}>
+    <Dialog open={props.isOpen} onClose={props.close} fullWidth={true}>
       <BookRegistrator />
     </Dialog>
   )
