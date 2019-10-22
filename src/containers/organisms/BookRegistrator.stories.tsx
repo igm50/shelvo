@@ -1,4 +1,5 @@
 import React from 'react'
+import { action } from '@storybook/addon-actions'
 
 import BookRegistrator from './BookRegistrator'
 
@@ -7,5 +8,5 @@ export default {
 }
 
 export const Sample = () => {
-  return <BookRegistrator />
+  return <BookRegistrator register={action('do register')} />
 }

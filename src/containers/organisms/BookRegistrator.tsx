@@ -1,48 +1,40 @@
 import React, { useState, useMemo } from 'react'
-import axios, { AxiosResponse } from 'axios'
 import { Box, Typography, CircularProgress } from '@material-ui/core'
+import useFetch from 'use-http'
 
 import GoogleBookSummary from '../../components/molecules/GoogleBookSummary'
 import SimpleSearch from '../../components/molecules/SimpleSearch'
 
-interface Props {}
+interface Props {
+  register: () => void
+}
 
 const BookRegistrator: React.FC<Props> = props => {
-  const [loading, setLoading] = useState(false)
-  const [response, setResponse] = useState<AxiosResponse | undefined>(undefined)
+  const request = useFetch('https://www.googleapis.com/books/v1/volumes')
+  const [books, setBooks] = useState<any[] | undefined>([])
 
-  const getBooks = useMemo(() => {
+  const sample = useMemo(() => {
     return (word: string) => {
-      setLoading(true)
-      axios
-        .get('https://www.googleapis.com/books/v1/volumes?q=' + word)
-        .then(res => setResponse(res))
-        .catch(() => setResponse(undefined))
-        .finally(() => setLoading(false))
+      if (word.length === 0) setBooks(undefined)
+      else request.get('?q=' + word).then(response => setBooks(response.items))
     }
-  }, [])
-
-  const books = useMemo<any[]>(() => {
-    return response === undefined || response.data.items === undefined
-      ? []
-      : response.data.items
-  }, [response])
-
-  const search = useMemo(() => {
-    return (word: string) => {
-      getBooks(word)
-    }
-  }, [getBooks])
+  }, [request])
 
   return (
     <Box>
       <Typography variant="h5">書籍登録</Typography>
-      <SimpleSearch dispatchWord={search} />
-      {loading ? (
+      <SimpleSearch dispatchWord={sample} />
+      {request.loading ? (
         <CircularProgress />
+      ) : books === undefined ? (
+        <Typography>検索結果はありません。</Typography>
       ) : (
         books.map((book, index) => (
-          <GoogleBookSummary key={index} googleBookItem={book} />
+          <GoogleBookSummary
+            key={index}
+            googleBookItem={book}
+            action={{ label: '登録', do: props.register }}
+          />
         ))
       )}
     </Box>
