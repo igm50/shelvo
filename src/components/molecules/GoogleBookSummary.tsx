@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 import { Card, CardMedia, CardContent, Typography } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
+
+import TextButton from '../atoms/TextButton'
 
 type GoogleBookItem = {
   volumeInfo: {
@@ -9,10 +11,12 @@ type GoogleBookItem = {
     publisher: string
     publishedDate: string
     description: string
-    industryIdentifiers: {
-      type: 'ISBN_10' | 'ISBN_13' | 'OTHER'
-      identifier: string
-    }
+    industryIdentifiers: [
+      {
+        type: 'ISBN_10' | 'ISBN_13' | 'OTHER'
+        identifier: string
+      }
+    ]
     imageLinks?: {
       smallThumbnail: string
       thumbnail: string
@@ -25,6 +29,10 @@ type GoogleBookItem = {
 
 interface Props {
   googleBookItem: GoogleBookItem
+  action: {
+    label: string
+    do: (identifier: string) => void
+  }
 }
 
 const useStyles = makeStyles({
@@ -39,6 +47,18 @@ const useStyles = makeStyles({
 
 const GoogleBookSummary: React.FC<Props> = props => {
   const classes = useStyles()
+
+  const doAction = useCallback(() => {
+    const firstIndustryIdentifiers =
+      props.googleBookItem.volumeInfo.industryIdentifiers[0]
+    const identifier =
+      firstIndustryIdentifiers.type === 'ISBN_10'
+        ? 'isbn10:' + firstIndustryIdentifiers.identifier
+        : firstIndustryIdentifiers.type === 'ISBN_13'
+        ? 'isbn13' + firstIndustryIdentifiers.identifier
+        : ''
+    props.action.do(identifier)
+  }, [props.action, props.googleBookItem.volumeInfo.industryIdentifiers])
 
   return (
     <Card className={classes.root}>
@@ -66,6 +86,7 @@ const GoogleBookSummary: React.FC<Props> = props => {
             ? props.googleBookItem.searchInfo.textSnippet
             : '概要はありません。'}
         </Typography>
+        <TextButton onClick={doAction}>{props.action.label}</TextButton>
       </CardContent>
     </Card>
   )

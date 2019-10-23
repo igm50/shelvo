@@ -8,5 +8,7 @@ export default {
 }
 
 export const Sample = () => {
-  return <BookRegistrator register={action('do register')} />
+  return (
+    <BookRegistrator register={(identifier: string) => action(identifier)()} />
+  )
 }

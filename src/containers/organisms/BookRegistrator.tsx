@@ -6,14 +6,14 @@ import GoogleBookSummary from '../../components/molecules/GoogleBookSummary'
 import SimpleSearch from '../../components/molecules/SimpleSearch'
 
 interface Props {
-  register: () => void
+  register: (identifier: string) => void
 }
 
 const BookRegistrator: React.FC<Props> = props => {
   const request = useFetch('https://www.googleapis.com/books/v1/volumes')
   const [books, setBooks] = useState<any[] | undefined>([])
 
-  const sample = useMemo(() => {
+  const search = useMemo(() => {
     return (word: string) => {
       if (word.length === 0) setBooks(undefined)
       else request.get('?q=' + word).then(response => setBooks(response.items))
@@ -23,7 +23,7 @@ const BookRegistrator: React.FC<Props> = props => {
   return (
     <Box>
       <Typography variant="h5">書籍登録</Typography>
-      <SimpleSearch dispatchWord={sample} />
+      <SimpleSearch dispatchWord={search} />
       {request.loading ? (
         <CircularProgress />
       ) : books === undefined ? (
