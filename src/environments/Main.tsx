@@ -17,7 +17,7 @@ const Main: React.FC = () => {
       <Menu isOpen={menuOpen} close={changeMenuOpen} />
       <Toolbar />
       <Contents openBookRegistrator={() => setDialogsOpen(true)} />
-      <Dialogs isOpen={dialogsOpen} close={() => setDialogsOpen(false)} />
+      <Dialogs open={dialogsOpen} close={() => setDialogsOpen(false)} />
     </React.Fragment>
   )
 }
