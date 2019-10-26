@@ -1,321 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Atoms/TextButton Blue 1`] = `
-<button
-  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
-  disabled={false}
-  onBlur={[Function]}
-  onClick={[Function]}
-  onDragLeave={[Function]}
-  onFocus={[Function]}
-  onKeyDown={[Function]}
-  onKeyUp={[Function]}
-  onMouseDown={[Function]}
-  onMouseLeave={[Function]}
-  onMouseUp={[Function]}
-  onTouchEnd={[Function]}
-  onTouchMove={[Function]}
-  onTouchStart={[Function]}
-  tabIndex={0}
-  type="button"
->
-  <span
-    className="MuiButton-label"
-  >
-    Sample
-  </span>
-</button>
-`;
-
-exports[`Storyshots Atoms/TextButton Red 1`] = `
-<button
-  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary"
-  disabled={false}
-  onBlur={[Function]}
-  onClick={[Function]}
-  onDragLeave={[Function]}
-  onFocus={[Function]}
-  onKeyDown={[Function]}
-  onKeyUp={[Function]}
-  onMouseDown={[Function]}
-  onMouseLeave={[Function]}
-  onMouseUp={[Function]}
-  onTouchEnd={[Function]}
-  onTouchMove={[Function]}
-  onTouchStart={[Function]}
-  tabIndex={0}
-  type="button"
->
-  <span
-    className="MuiButton-label"
-  >
-    Sample
-  </span>
-</button>
-`;
-
-exports[`Storyshots Molecules/IconList Sample 1`] = `
-<ul
-  className="MuiList-root MuiList-padding"
->
-  <div
-    aria-disabled={false}
-    className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
-    onBlur={[Function]}
-    onDragLeave={[Function]}
-    onFocus={[Function]}
-    onKeyDown={[Function]}
-    onKeyUp={[Function]}
-    onMouseDown={[Function]}
-    onMouseLeave={[Function]}
-    onMouseUp={[Function]}
-    onTouchEnd={[Function]}
-    onTouchMove={[Function]}
-    onTouchStart={[Function]}
-    role="button"
-    tabIndex={0}
-  >
-    <div
-      className="MuiListItemIcon-root"
-    >
-      <svg
-        aria-hidden="true"
-        className="MuiSvgIcon-root"
-        focusable="false"
-        role="presentation"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M10 18h5V5h-5v13zm-6 0h5V5H4v13zM16 5v13h5V5h-5z"
-        />
-      </svg>
-    </div>
-    <div
-      className="MuiListItemText-root"
-    >
-      <span
-        className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
-      >
-        本棚の管理
-      </span>
-    </div>
-  </div>
-  <div
-    aria-disabled={false}
-    className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
-    onBlur={[Function]}
-    onDragLeave={[Function]}
-    onFocus={[Function]}
-    onKeyDown={[Function]}
-    onKeyUp={[Function]}
-    onMouseDown={[Function]}
-    onMouseLeave={[Function]}
-    onMouseUp={[Function]}
-    onTouchEnd={[Function]}
-    onTouchMove={[Function]}
-    onTouchStart={[Function]}
-    role="button"
-    tabIndex={0}
-  >
-    <div
-      className="MuiListItemIcon-root"
-    >
-      <svg
-        aria-hidden="true"
-        className="MuiSvgIcon-root"
-        focusable="false"
-        role="presentation"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M7 19h10V4H7v15zm-5-2h4V6H2v11zM18 6v11h4V6h-4z"
-        />
-      </svg>
-    </div>
-    <div
-      className="MuiListItemText-root"
-    >
-      <span
-        className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
-      >
-        本棚1
-      </span>
-    </div>
-  </div>
-  <div
-    aria-disabled={false}
-    className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
-    onBlur={[Function]}
-    onDragLeave={[Function]}
-    onFocus={[Function]}
-    onKeyDown={[Function]}
-    onKeyUp={[Function]}
-    onMouseDown={[Function]}
-    onMouseLeave={[Function]}
-    onMouseUp={[Function]}
-    onTouchEnd={[Function]}
-    onTouchMove={[Function]}
-    onTouchStart={[Function]}
-    role="button"
-    tabIndex={0}
-  >
-    <div
-      className="MuiListItemIcon-root"
-    >
-      <svg
-        aria-hidden="true"
-        className="MuiSvgIcon-root"
-        focusable="false"
-        role="presentation"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M7 19h10V4H7v15zm-5-2h4V6H2v11zM18 6v11h4V6h-4z"
-        />
-      </svg>
-    </div>
-    <div
-      className="MuiListItemText-root"
-    >
-      <span
-        className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
-      >
-        本棚2
-      </span>
-    </div>
-  </div>
-  <div
-    aria-disabled={false}
-    className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
-    onBlur={[Function]}
-    onDragLeave={[Function]}
-    onFocus={[Function]}
-    onKeyDown={[Function]}
-    onKeyUp={[Function]}
-    onMouseDown={[Function]}
-    onMouseLeave={[Function]}
-    onMouseUp={[Function]}
-    onTouchEnd={[Function]}
-    onTouchMove={[Function]}
-    onTouchStart={[Function]}
-    role="button"
-    tabIndex={0}
-  >
-    <div
-      className="MuiListItemIcon-root"
-    >
-      <svg
-        aria-hidden="true"
-        className="MuiSvgIcon-root"
-        focusable="false"
-        role="presentation"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M7 19h10V4H7v15zm-5-2h4V6H2v11zM18 6v11h4V6h-4z"
-        />
-      </svg>
-    </div>
-    <div
-      className="MuiListItemText-root"
-    >
-      <span
-        className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
-      >
-        本棚3
-      </span>
-    </div>
-  </div>
-</ul>
-`;
-
-exports[`Storyshots Molecules/MediaCard Sample 1`] = `
-<div
-  className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-106 MuiPaper-rounded"
->
-  <img
-    className="MuiCardMedia-root makeStyles-media-107 MuiCardMedia-media"
-    src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  />
-  <div
-    className="MuiCardContent-root"
-  >
-    <h6
-      className="MuiTypography-root MuiTypography-h6"
-    >
-      サンプルタイトル
-    </h6>
-    <p
-      className="MuiTypography-root MuiTypography-body1"
-    >
-      サンプルテキスト
-    </p>
-  </div>
-</div>
-`;
-
-exports[`Storyshots Molecules/SimpleSearch Sample 1`] = `
-<div
-  className="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"
->
-  <div
-    className="MuiInputBase-root makeStyles-input-169"
-    onClick={[Function]}
-  >
-    <input
-      className="MuiInputBase-input"
-      onAnimationStart={[Function]}
-      onBlur={[Function]}
-      onChange={[Function]}
-      onFocus={[Function]}
-      placeholder="検索ワードを入力"
-      type="text"
-      value=""
-    />
-  </div>
-  <button
-    className="MuiButtonBase-root MuiIconButton-root"
-    disabled={false}
-    onBlur={[Function]}
-    onClick={[Function]}
-    onDragLeave={[Function]}
-    onFocus={[Function]}
-    onKeyDown={[Function]}
-    onKeyUp={[Function]}
-    onMouseDown={[Function]}
-    onMouseLeave={[Function]}
-    onMouseUp={[Function]}
-    onTouchEnd={[Function]}
-    onTouchMove={[Function]}
-    onTouchStart={[Function]}
-    tabIndex={0}
-    type="button"
-  >
-    <span
-      className="MuiIconButton-label"
-    >
-      <svg
-        aria-hidden="true"
-        className="MuiSvgIcon-root"
-        focusable="false"
-        role="presentation"
-        viewBox="0 0 24 24"
-      >
-        <path
-          d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
-        />
-      </svg>
-    </span>
-  </button>
-</div>
-`;
-
 exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 <div
   className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
 >
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -339,7 +29,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -349,7 +39,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -373,7 +63,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -383,7 +73,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -407,7 +97,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -417,7 +107,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -441,7 +131,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -451,7 +141,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -475,7 +165,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -485,7 +175,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -509,7 +199,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -519,7 +209,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -543,7 +233,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -553,7 +243,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -577,7 +267,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -587,7 +277,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -611,7 +301,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -621,7 +311,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -645,7 +335,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -655,7 +345,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -679,7 +369,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -689,7 +379,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -713,7 +403,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -723,7 +413,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -747,7 +437,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -757,7 +447,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -781,7 +471,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -791,7 +481,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -815,7 +505,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -825,7 +515,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -849,7 +539,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -859,7 +549,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -883,7 +573,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -893,7 +583,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -917,7 +607,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -927,7 +617,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -951,7 +641,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -961,7 +651,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -985,7 +675,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -995,7 +685,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1019,7 +709,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1029,7 +719,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1053,7 +743,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1063,7 +753,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1087,7 +777,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1097,7 +787,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1121,7 +811,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1131,7 +821,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1155,7 +845,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1165,7 +855,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1189,7 +879,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1199,7 +889,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1223,7 +913,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1233,7 +923,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1257,7 +947,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1267,7 +957,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1291,7 +981,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1301,7 +991,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
       className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
@@ -1325,7 +1015,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
         type="button"
       >
         <img
-          className="MuiCardMedia-root makeStyles-media-238 MuiCardMedia-media"
+          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
           src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         />
         <span
@@ -1335,7 +1025,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-237 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <button
       className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary"
@@ -1377,7 +1067,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 
 exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
 <div
-  className="MuiBox-root MuiBox-root-397"
+  className="MuiBox-root MuiBox-root-161"
 >
   <h5
     className="MuiTypography-root MuiTypography-h5"
@@ -1388,7 +1078,7 @@ exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
     className="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"
   >
     <div
-      className="MuiInputBase-root makeStyles-input-428"
+      className="MuiInputBase-root makeStyles-input-192"
       onClick={[Function]}
     >
       <input
@@ -1481,10 +1171,10 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
   className="MuiList-root MuiList-padding"
 >
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-542 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-306 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-543 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-307 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
@@ -1527,10 +1217,10 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
     </div>
   </div>
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-542 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-306 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-543 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-307 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
