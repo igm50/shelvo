@@ -8,11 +8,23 @@ export default {
 }
 
 export const Loading = () => {
-  return <GoogleBookSummaryList googleBookItems={[]} loading={true} />
+  return (
+    <GoogleBookSummaryList
+      googleBookItems={[]}
+      loading={true}
+      dispatchIsbn={action('')}
+    />
+  )
 }
 
 export const EmptyBooks = () => {
-  return <GoogleBookSummaryList googleBookItems={[]} loading={false} />
+  return (
+    <GoogleBookSummaryList
+      googleBookItems={[]}
+      loading={false}
+      dispatchIsbn={action('')}
+    />
+  )
 }
 
 export const PresentBooks = () => {
@@ -55,8 +67,8 @@ export const PresentBooks = () => {
               'サンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプル',
             industryIdentifiers: [
               {
-                type: 'ISBN_10',
-                identifier: '0000000000'
+                type: 'ISBN_13',
+                identifier: '9999999999999'
               }
             ],
             imageLinks: {
@@ -73,6 +85,7 @@ export const PresentBooks = () => {
         }
       ]}
       loading={false}
+      dispatchIsbn={(isbn: string) => action(isbn)()}
     />
   )
 }

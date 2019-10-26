@@ -31,6 +31,7 @@ interface GoogleBookItem {
 interface Props {
   googleBookItems: GoogleBookItem[]
   loading: boolean
+  dispatchIsbn: (isbn: string) => void
 }
 
 const GoogleBookSummaryList: React.FC<Props> = props => {
@@ -39,7 +40,7 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
       return param.type === 'ISBN_10'
         ? 'isbn10:' + param.identifier
         : param.type === 'ISBN_13'
-        ? 'isbn13' + param.identifier
+        ? 'isbn13:' + param.identifier
         : ''
     }
   }, [])
@@ -53,7 +54,7 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
           mediaSource: item.volumeInfo.imageLinks!.thumbnail,
           title: item.volumeInfo.title,
           text: item.searchInfo!.textSnippet,
-          action: doAction(item.volumeInfo.industryIdentifiers[0])
+          isbn: doAction(item.volumeInfo.industryIdentifiers[0])
         }
       })
       .value()
@@ -71,7 +72,10 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
             mediaSource={book.mediaSource}
             title={book.title}
           >
-            {book.text}
+            <Typography>{book.title}</Typography>
+            <TextButton onClick={() => props.dispatchIsbn(book.isbn)}>
+              登録
+            </TextButton>
           </MediaCard>
         ))}
         <ListItem></ListItem>

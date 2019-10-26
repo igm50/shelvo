@@ -1495,7 +1495,35 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
       >
         タイトル
       </h6>
-      サンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプルサンプル
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        タイトル
+      </p>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          登録
+        </span>
+      </button>
     </div>
   </div>
   <div
@@ -1513,7 +1541,35 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
       >
         タイトル
       </h6>
-      ★２０１９年１０月２日（水）よりTVアニメ放送開始！★ シリーズ累計200万部突破！（電子書籍を含む） 【単話版】人気WEB小説『本好きの下剋上』がコミック化！ ...
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        タイトル
+      </p>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          登録
+        </span>
+      </button>
     </div>
   </div>
   <li
