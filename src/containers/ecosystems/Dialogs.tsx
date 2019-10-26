@@ -1,7 +1,7 @@
 import React from 'react'
 import { Dialog } from '@material-ui/core'
 
-import BookRegistrator from '../organisms/BookRegistrator'
+import GoogleBookSearch from '../organisms/GoogleBookSearch'
 
 interface Props {
   isOpen: boolean
@@ -11,7 +11,7 @@ interface Props {
 const Dialogs: React.FC<Props> = props => {
   return (
     <Dialog open={props.isOpen} onClose={props.close} fullWidth={true}>
-      <BookRegistrator />
+      <GoogleBookSearch />
     </Dialog>
   )
 }
