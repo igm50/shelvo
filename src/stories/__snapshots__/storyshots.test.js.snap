@@ -1440,15 +1440,51 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 </div>
 `;
 
-exports[`Storyshots Organisms/GoogleBookSummaryList Sample 1`] = `
+exports[`Storyshots Organisms/GoogleBookSummaryList Empty Books 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1"
+>
+  書籍が見つかりません。
+</p>
+`;
+
+exports[`Storyshots Organisms/GoogleBookSummaryList Loading 1`] = `
+<div
+  className="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+  role="progressbar"
+  style={
+    Object {
+      "height": 40,
+      "width": 40,
+    }
+  }
+>
+  <svg
+    className="MuiCircularProgress-svg"
+    viewBox="22 22 44 44"
+  >
+    <circle
+      className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+      cx={44}
+      cy={44}
+      fill="none"
+      r={20.2}
+      strokeWidth={3.6}
+      style={Object {}}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
 <ul
   className="MuiList-root MuiList-padding"
 >
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-500 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-542 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-501 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-543 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
@@ -1463,10 +1499,10 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-500 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-542 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-501 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-543 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div

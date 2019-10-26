@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 import _ from 'lodash'
-import { List, ListItem } from '@material-ui/core'
+import { List, ListItem, CircularProgress, Typography } from '@material-ui/core'
 
 import TextButton from '../../components/atoms/TextButton'
 import MediaCard from '../../components/molecules/MediaCard'
@@ -30,10 +30,7 @@ interface GoogleBookItem {
 
 interface Props {
   googleBookItems: GoogleBookItem[]
-  action: {
-    label: string
-    do: (identifier: string) => void
-  }
+  loading: boolean
 }
 
 const GoogleBookSummaryList: React.FC<Props> = props => {
@@ -62,20 +59,24 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
       .value()
   }, [doAction, props.googleBookItems])
 
-  return (
-    <List>
-      {books.map((book, index) => (
-        <MediaCard
-          key={index.toString()}
-          mediaSource={book.mediaSource}
-          title={book.title}
-        >
-          {book.text}
-        </MediaCard>
-      ))}
-      <ListItem></ListItem>
-    </List>
-  )
+  if (props.loading) return <CircularProgress />
+  else if (props.googleBookItems.length === 0)
+    return <Typography>書籍が見つかりません。</Typography>
+  else
+    return (
+      <List>
+        {books.map((book, index) => (
+          <MediaCard
+            key={index.toString()}
+            mediaSource={book.mediaSource}
+            title={book.title}
+          >
+            {book.text}
+          </MediaCard>
+        ))}
+        <ListItem></ListItem>
+      </List>
+    )
 }
 
 export default GoogleBookSummaryList

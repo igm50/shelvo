@@ -7,7 +7,15 @@ export default {
   title: 'Organisms/GoogleBookSummaryList'
 }
 
-export const Sample = () => {
+export const Loading = () => {
+  return <GoogleBookSummaryList googleBookItems={[]} loading={true} />
+}
+
+export const EmptyBooks = () => {
+  return <GoogleBookSummaryList googleBookItems={[]} loading={false} />
+}
+
+export const PresentBooks = () => {
   return (
     <GoogleBookSummaryList
       googleBookItems={[
@@ -64,10 +72,7 @@ export const Sample = () => {
           }
         }
       ]}
-      action={{
-        label: '実行',
-        do: (identifier: string) => action(identifier)()
-      }}
+      loading={false}
     />
   )
 }
