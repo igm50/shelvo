@@ -48,6 +48,7 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
   const books = useMemo(() => {
     return _.chain(props.googleBookItems)
       .filter(item => item.volumeInfo.imageLinks !== undefined)
+      .filter(item => item.volumeInfo.industryIdentifiers !== undefined)
       .filter(item => item.searchInfo !== undefined)
       .map(item => {
         return {
