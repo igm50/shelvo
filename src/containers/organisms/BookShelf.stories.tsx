@@ -17,5 +17,10 @@ export const Sample = () => {
     }
   })
 
-  return <BookShelf books={dummy} />
+  return (
+    <BookShelf
+      books={dummy}
+      openBookRegistrator={action('openBookRegistrator')}
+    />
+  )
 }

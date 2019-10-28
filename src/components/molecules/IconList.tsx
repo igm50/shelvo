@@ -9,7 +9,7 @@ interface Props {
   }[]
 }
 
-const MenuList: React.FC<Props> = props => {
+const IconList: React.FC<Props> = props => {
   return (
     <List>
       {props.iconList.map((iconSet, index) => (
@@ -24,4 +24,4 @@ const MenuList: React.FC<Props> = props => {
   )
 }
 
-export default MenuList
+export default IconList

@@ -1,9 +1,17 @@
 import React from 'react'
-import { Card, CardActionArea, CardMedia, Grid } from '@material-ui/core'
+import {
+  Card,
+  CardActionArea,
+  CardMedia,
+  Grid,
+  IconButton
+} from '@material-ui/core'
+import { AddCircle } from '@material-ui/icons'
 import { makeStyles } from '@material-ui/styles'
 
 interface Props {
   books: Book[]
+  openBookRegistrator: () => void
 }
 
 const useStyles = makeStyles({
@@ -33,6 +41,11 @@ const BookShelf: React.FC<Props> = props => {
           </Card>
         </Grid>
       ))}
+      <Grid className={classes.root} item key="add">
+        <IconButton color="primary" onClick={props.openBookRegistrator}>
+          <AddCircle />
+        </IconButton>
+      </Grid>
     </Grid>
   )
 }

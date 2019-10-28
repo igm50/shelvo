@@ -4,7 +4,11 @@ import { Box } from '@material-ui/core'
 
 import BookShelf from '../organisms/BookShelf'
 
-const Contents: React.FC = () => {
+interface Props {
+  openBookRegistrator: () => void
+}
+
+const Contents: React.FC<Props> = props => {
   const dummy = _.range(30).map(index => {
     return {
       clickEvent: () => {},
@@ -15,7 +19,10 @@ const Contents: React.FC = () => {
 
   return (
     <Box>
-      <BookShelf books={dummy} />
+      <BookShelf
+        books={dummy}
+        openBookRegistrator={props.openBookRegistrator}
+      />
     </Box>
   )
 }
