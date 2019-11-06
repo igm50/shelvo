@@ -2,7 +2,7 @@ import React from 'react'
 import _ from 'lodash'
 import { Box } from '@material-ui/core'
 
-import BookShelf from '../organisms/BookShelf'
+import BookShelf from '../../components/organisms/BookShelf'
 
 interface Props {
   openBookRegistrator: () => void

@@ -2,7 +2,7 @@ import React from 'react'
 import { Drawer, Divider, IconButton } from '@material-ui/core'
 import { ChevronLeft } from '@material-ui/icons'
 
-import MenuList from '../organisms/MenuList'
+import MenuList from '../../components/organisms/MenuList'
 
 interface Props {
   isOpen: boolean

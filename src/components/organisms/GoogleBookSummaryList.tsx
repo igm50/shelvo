@@ -2,8 +2,8 @@ import React, { useMemo } from 'react'
 import _ from 'lodash'
 import { List, ListItem, CircularProgress, Typography } from '@material-ui/core'
 
-import TextButton from '../../components/atoms/TextButton'
-import MediaCard from '../../components/molecules/MediaCard'
+import TextButton from '../atoms/TextButton'
+import MediaCard from '../molecules/MediaCard'
 
 interface GoogleBookItem {
   volumeInfo: {
