@@ -2,7 +2,7 @@ import React from 'react'
 import { Divider } from '@material-ui/core'
 import { ViewColumn, ViewCarousel, Accessibility } from '@material-ui/icons'
 
-import IconList from '../../components/molecules/IconList'
+import IconList from '../molecules/IconList'
 
 const MenuList: React.FC = () => {
   return (

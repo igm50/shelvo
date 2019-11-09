@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import { Dialog, Box, makeStyles } from '@material-ui/core'
 import {} from '@material-ui/styles'
 
-import GoogleBookSearch from '../organisms/GoogleBookSearch'
-import GoogleBookSummaryList from '../organisms/GoogleBookSummaryList'
+import GoogleBookSearch from '../../components/organisms/GoogleBookSearch'
+import GoogleBookSummaryList from '../../components/organisms/GoogleBookSummaryList'
 
 const useStyle = makeStyles({
   wrapper: {

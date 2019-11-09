@@ -8,1020 +8,660 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
     className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
     >
-      <button
-        className="MuiButtonBase-root MuiCardActionArea-root"
-        disabled={false}
-        onBlur={[Function]}
-        onClick={[Function]}
-        onDragLeave={[Function]}
-        onFocus={[Function]}
-        onKeyDown={[Function]}
-        onKeyUp={[Function]}
-        onMouseDown={[Function]}
-        onMouseLeave={[Function]}
-        onMouseUp={[Function]}
-        onTouchEnd={[Function]}
-        onTouchMove={[Function]}
-        onTouchStart={[Function]}
-        tabIndex={0}
-        type="button"
+      <img
+        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      />
+      <div
+        className="MuiCardContent-root makeStyles-content-111"
       >
-        <img
-          className="MuiCardMedia-root makeStyles-media-2 MuiCardMedia-media"
-          src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        />
-        <span
-          className="MuiCardActionArea-focusHighlight"
-        />
-      </button>
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          あいうえおかきくけこ……
+        </h6>
+        サンプルコメントサンプルコメントサンプルコメントサンプルコメント
+      </div>
     </div>
   </div>
   <div
@@ -1067,7 +707,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 
 exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
 <div
-  className="MuiBox-root MuiBox-root-161"
+  className="MuiBox-root MuiBox-root-195"
 >
   <h5
     className="MuiTypography-root MuiTypography-h5"
@@ -1078,7 +718,7 @@ exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
     className="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"
   >
     <div
-      className="MuiInputBase-root makeStyles-input-192"
+      className="MuiInputBase-root makeStyles-input-226"
       onClick={[Function]}
     >
       <input
@@ -1171,14 +811,14 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
   className="MuiList-root MuiList-padding"
 >
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-306 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-340 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-307 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-341 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
-      className="MuiCardContent-root"
+      className="MuiCardContent-root makeStyles-content-342"
     >
       <h6
         className="MuiTypography-root MuiTypography-h6"
@@ -1217,14 +857,14 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
     </div>
   </div>
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-306 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-340 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-307 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-341 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
-      className="MuiCardContent-root"
+      className="MuiCardContent-root makeStyles-content-342"
     >
       <h6
         className="MuiTypography-root MuiTypography-h6"

@@ -175,7 +175,32 @@ exports[`Storyshots Molecules/IconList Sample 1`] = `
 </ul>
 `;
 
-exports[`Storyshots Molecules/MediaCard Sample 1`] = `
+exports[`Storyshots Molecules/MediaCard Book Display 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-136 MuiPaper-rounded"
+>
+  <img
+    className="MuiCardMedia-root makeStyles-media-137 MuiCardMedia-media"
+    src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  />
+  <div
+    className="MuiCardContent-root makeStyles-content-138"
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-h6"
+    >
+      タイトルサンプル
+    </h6>
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      テキストサンプル
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/MediaCard Root 1`] = `
 <div
   className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-66 MuiPaper-rounded"
 >
@@ -184,17 +209,17 @@ exports[`Storyshots Molecules/MediaCard Sample 1`] = `
     src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   />
   <div
-    className="MuiCardContent-root"
+    className="MuiCardContent-root makeStyles-content-68"
   >
     <h6
       className="MuiTypography-root MuiTypography-h6"
     >
-      サンプルタイトル
+      タイトルサンプル
     </h6>
     <p
       className="MuiTypography-root MuiTypography-body1"
     >
-      サンプルテキスト
+      テキストサンプル
     </p>
   </div>
 </div>
@@ -205,7 +230,7 @@ exports[`Storyshots Molecules/SimpleSearch Sample 1`] = `
   className="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"
 >
   <div
-    className="MuiInputBase-root makeStyles-input-129"
+    className="MuiInputBase-root makeStyles-input-200"
     onClick={[Function]}
   >
     <input

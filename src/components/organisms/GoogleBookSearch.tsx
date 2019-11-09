@@ -2,7 +2,7 @@ import React, { useMemo, useEffect } from 'react'
 import { Box, Typography } from '@material-ui/core'
 import useFetch from 'use-http'
 
-import SimpleSearch from '../../components/molecules/SimpleSearch'
+import SimpleSearch from '../molecules/SimpleSearch'
 
 interface Props {
   dispatchLoading: (loading: boolean) => void

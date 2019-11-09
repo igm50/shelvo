@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import { Toolbar } from '@material-ui/core'
 
-import Header from '../containers/ecosystems/Header'
-import Menu from '../containers/ecosystems/Menu'
-import Contents from '../containers/ecosystems/Contents'
-import Dialogs from '../containers/ecosystems/Dialogs'
+import Header from '../ecosystems/Header'
+import Menu from '../ecosystems/Menu'
+import Contents from '../ecosystems/Contents'
+import Dialogs from '../ecosystems/Dialogs'
 
 const Main: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false)
