@@ -12,6 +12,8 @@ const Contents: React.FC<Props> = props => {
   const dummy = _.range(30).map(index => {
     return {
       clickEvent: () => {},
+      title: 'ダミー',
+      comment: 'ダミー',
       imageSrc:
         'http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
     }
