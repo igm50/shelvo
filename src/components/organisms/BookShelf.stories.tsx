@@ -12,6 +12,9 @@ export const Sample = () => {
   const dummy = _.range(30).map(index => {
     return {
       clickEvent: action('clicked' + index),
+      title: 'あいうえおかきくけこさしすせそ',
+      comment:
+        'サンプルコメントサンプルコメントサンプルコメントサンプルコメント',
       imageSrc:
         'http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
     }

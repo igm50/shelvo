@@ -1,13 +1,9 @@
 import React from 'react'
-import {
-  Card,
-  CardActionArea,
-  CardMedia,
-  Grid,
-  IconButton
-} from '@material-ui/core'
+import { Grid, IconButton } from '@material-ui/core'
 import { AddCircle } from '@material-ui/icons'
 import { makeStyles } from '@material-ui/styles'
+
+import MediaCard from '../molecules/MediaCard'
 
 interface Props {
   books: Book[]
@@ -16,7 +12,7 @@ interface Props {
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 150
+    width: 300
   },
   media: {
     maxWidth: 128
@@ -30,15 +26,13 @@ const BookShelf: React.FC<Props> = props => {
     <Grid container justify="flex-start" spacing={3}>
       {props.books.map((book, index) => (
         <Grid className={classes.root} item key={index}>
-          <Card>
-            <CardActionArea onClick={book.clickEvent}>
-              <CardMedia
-                className={classes.media}
-                component="img"
-                src={book.imageSrc}
-              />
-            </CardActionArea>
-          </Card>
+          <MediaCard
+            type="bookDisplay"
+            title={book.title}
+            mediaSource={book.imageSrc}
+          >
+            {book.comment}
+          </MediaCard>
         </Grid>
       ))}
       <Grid className={classes.root} item key="add">
