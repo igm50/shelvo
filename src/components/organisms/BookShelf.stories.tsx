@@ -2,7 +2,7 @@ import React from 'react'
 import _ from 'lodash'
 import { action } from '@storybook/addon-actions'
 
-import BookShelf from './BookShelf'
+import { BookShelf } from './BookShelf'
 
 export default {
   title: 'Organisms/BookShelf'

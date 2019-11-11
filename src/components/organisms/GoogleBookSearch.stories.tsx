@@ -1,7 +1,7 @@
 import React from 'react'
 import { action } from '@storybook/addon-actions'
 
-import GoogleBookSearch from './GoogleBookSearch'
+import { GoogleBookSearch } from './GoogleBookSearch'
 
 export default {
   title: 'Organisms/GoogleBookSearch'

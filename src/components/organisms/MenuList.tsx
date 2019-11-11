@@ -2,9 +2,9 @@ import React from 'react'
 import { Divider } from '@material-ui/core'
 import { ViewColumn, ViewCarousel, Accessibility } from '@material-ui/icons'
 
-import IconList from '../molecules/IconList'
+import { IconList } from '../molecules/IconList'
 
-const MenuList: React.FC = () => {
+export const MenuList: React.FC = () => {
   return (
     <React.Fragment>
       <IconList iconList={[{ Icon: ViewColumn, title: '本棚の管理' }]} />
@@ -22,5 +22,3 @@ const MenuList: React.FC = () => {
     </React.Fragment>
   )
 }
-
-export default MenuList

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import MenuList from './MenuList'
+import { MenuList } from './MenuList'
 
 export default {
   title: 'Organisms/MenuList'

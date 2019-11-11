@@ -1,7 +1,7 @@
 import React from 'react'
 import { Typography } from '@material-ui/core'
 
-import MediaCard from './MediaCard'
+import { MediaCard } from './MediaCard'
 
 export default {
   title: 'Molecules/MediaCard'

@@ -2,8 +2,8 @@ import React, { useMemo } from 'react'
 import _ from 'lodash'
 import { List, ListItem, CircularProgress, Typography } from '@material-ui/core'
 
-import TextButton from '../atoms/TextButton'
-import MediaCard from '../molecules/MediaCard'
+import { TextButton } from '../atoms/TextButton'
+import { MediaCard } from '../molecules/MediaCard'
 
 interface GoogleBookItem {
   volumeInfo: {
@@ -34,7 +34,7 @@ interface Props {
   dispatchIsbn: (isbn: string) => void
 }
 
-const GoogleBookSummaryList: React.FC<Props> = props => {
+export const GoogleBookSummaryList: React.FC<Props> = props => {
   const doAction = useMemo(() => {
     return (param: { type: string; identifier: string }): string => {
       return param.type === 'ISBN_10'
@@ -83,5 +83,3 @@ const GoogleBookSummaryList: React.FC<Props> = props => {
       </List>
     )
 }
-
-export default GoogleBookSummaryList

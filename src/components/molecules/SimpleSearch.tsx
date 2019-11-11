@@ -14,7 +14,7 @@ interface Props {
   dispatchWord: (word: string) => void
 }
 
-const SimpleSearch: React.FC<Props> = props => {
+export const SimpleSearch: React.FC<Props> = props => {
   const classes = useStyles()
   const [word, setWord] = useState(props.initWord || '')
 
@@ -34,5 +34,3 @@ const SimpleSearch: React.FC<Props> = props => {
     </Paper>
   )
 }
-
-export default SimpleSearch

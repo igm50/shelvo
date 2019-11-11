@@ -2,14 +2,14 @@ import React, { useMemo, useEffect } from 'react'
 import { Box, Typography } from '@material-ui/core'
 import useFetch from 'use-http'
 
-import SimpleSearch from '../molecules/SimpleSearch'
+import { SimpleSearch } from '../molecules/SimpleSearch'
 
 interface Props {
   dispatchLoading: (loading: boolean) => void
   dispatchGoogleBookItems: (items: any[]) => void
 }
 
-const GoogleBookSearch: React.FC<Props> = props => {
+export const GoogleBookSearch: React.FC<Props> = props => {
   const request = useFetch('https://www.googleapis.com/books/v1/volumes')
 
   const search = useMemo(() => {
@@ -31,5 +31,3 @@ const GoogleBookSearch: React.FC<Props> = props => {
     </Box>
   )
 }
-
-export default GoogleBookSearch

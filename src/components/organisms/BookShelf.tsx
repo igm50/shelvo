@@ -3,7 +3,7 @@ import { Grid, IconButton } from '@material-ui/core'
 import { AddCircle } from '@material-ui/icons'
 import { makeStyles } from '@material-ui/styles'
 
-import MediaCard from '../molecules/MediaCard'
+import { MediaCard } from '../molecules/MediaCard'
 
 interface Props {
   books: Book[]
@@ -19,7 +19,7 @@ const useStyles = makeStyles({
   }
 })
 
-const BookShelf: React.FC<Props> = props => {
+export const BookShelf: React.FC<Props> = props => {
   const classes = useStyles()
 
   return (
@@ -43,5 +43,3 @@ const BookShelf: React.FC<Props> = props => {
     </Grid>
   )
 }
-
-export default BookShelf

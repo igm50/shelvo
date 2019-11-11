@@ -1,7 +1,7 @@
 import React from 'react'
 import { action } from '@storybook/addon-actions'
 
-import GoogleBookSummaryList from './GoogleBookSummaryList'
+import { GoogleBookSummaryList } from './GoogleBookSummaryList'
 
 export default {
   title: 'Organisms/GoogleBookSummaryList'

@@ -1,12 +1,12 @@
 import React, { useState } from 'react'
 import { Toolbar } from '@material-ui/core'
 
-import Header from '../ecosystems/Header'
-import Menu from '../ecosystems/Menu'
-import Contents from '../ecosystems/Contents'
-import Dialogs from '../ecosystems/Dialogs'
+import { Header } from '../ecosystems/Header'
+import { Menu } from '../ecosystems/Menu'
+import { Contents } from '../ecosystems/Contents'
+import { Dialogs } from '../ecosystems/Dialogs'
 
-const Main: React.FC = () => {
+export const Main: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false)
   const [dialogsOpen, setDialogsOpen] = useState(false)
   const changeMenuOpen = () => setMenuOpen(!menuOpen)
@@ -21,5 +21,3 @@ const Main: React.FC = () => {
     </React.Fragment>
   )
 }
-
-export default Main

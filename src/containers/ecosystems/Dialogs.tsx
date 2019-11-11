@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import { Dialog, Box, makeStyles } from '@material-ui/core'
 import {} from '@material-ui/styles'
 
-import GoogleBookSearch from '../../components/organisms/GoogleBookSearch'
-import GoogleBookSummaryList from '../../components/organisms/GoogleBookSummaryList'
+import { GoogleBookSearch } from '../../components/organisms/GoogleBookSearch'
+import { GoogleBookSummaryList } from '../../components/organisms/GoogleBookSummaryList'
 
 const useStyle = makeStyles({
   wrapper: {
@@ -17,7 +17,7 @@ interface Props {
   dispatchIsbn: (isbn: string) => void
 }
 
-const Dialogs: React.FC<Props> = props => {
+export const Dialogs: React.FC<Props> = props => {
   const classes = useStyle()
   const [googleBookItems, setGoogleBookItems] = useState<any[]>([])
   const [loading, setLoading] = useState(false)
@@ -38,5 +38,3 @@ const Dialogs: React.FC<Props> = props => {
     </Dialog>
   )
 }
-
-export default Dialogs
