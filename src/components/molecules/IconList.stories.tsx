@@ -1,7 +1,7 @@
 import React from 'react'
 import { ViewColumn, ViewCarousel } from '@material-ui/icons'
 
-import IconList from './IconList'
+import { IconList } from './IconList'
 
 export default {
   title: 'Molecules/IconList'

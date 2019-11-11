@@ -7,7 +7,7 @@ interface Props {
   toggleMenu: () => void
 }
 
-const Header: React.FC<Props> = props => {
+export const Header: React.FC<Props> = props => {
   return (
     <AppBar color="inherit">
       <Toolbar>
@@ -21,5 +21,3 @@ const Header: React.FC<Props> = props => {
     </AppBar>
   )
 }
-
-export default Header

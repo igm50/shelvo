@@ -10,7 +10,7 @@ interface Props {
   color?: Color
 }
 
-const TextButton: React.FC<Props> = props => {
+export const TextButton: React.FC<Props> = props => {
   const color = useMemo(() => {
     if (props.color === undefined || props.color === 'Blue') return 'primary'
     else return 'secondary'
@@ -22,5 +22,3 @@ const TextButton: React.FC<Props> = props => {
     </Button>
   )
 }
-
-export default TextButton

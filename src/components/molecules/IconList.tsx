@@ -9,7 +9,7 @@ interface Props {
   }[]
 }
 
-const IconList: React.FC<Props> = props => {
+export const IconList: React.FC<Props> = props => {
   return (
     <List>
       {props.iconList.map((iconSet, index) => (
@@ -23,5 +23,3 @@ const IconList: React.FC<Props> = props => {
     </List>
   )
 }
-
-export default IconList

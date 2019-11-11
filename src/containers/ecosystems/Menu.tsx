@@ -2,14 +2,14 @@ import React from 'react'
 import { Drawer, Divider, IconButton } from '@material-ui/core'
 import { ChevronLeft } from '@material-ui/icons'
 
-import MenuList from '../../components/organisms/MenuList'
+import { MenuList } from '../../components/organisms/MenuList'
 
 interface Props {
   isOpen: boolean
   close: () => void
 }
 
-const Menu: React.FC<Props> = props => {
+export const Menu: React.FC<Props> = props => {
   return (
     <Drawer open={props.isOpen} onClose={props.close}>
       <div style={{ textAlign: 'right' }}>
@@ -22,5 +22,3 @@ const Menu: React.FC<Props> = props => {
     </Drawer>
   )
 }
-
-export default Menu

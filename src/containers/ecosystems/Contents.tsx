@@ -2,13 +2,13 @@ import React from 'react'
 import _ from 'lodash'
 import { Box } from '@material-ui/core'
 
-import BookShelf from '../../components/organisms/BookShelf'
+import { BookShelf } from '../../components/organisms/BookShelf'
 
 interface Props {
   openBookRegistrator: () => void
 }
 
-const Contents: React.FC<Props> = props => {
+export const Contents: React.FC<Props> = props => {
   const dummy = _.range(30).map(index => {
     return {
       clickEvent: () => {},
@@ -28,5 +28,3 @@ const Contents: React.FC<Props> = props => {
     </Box>
   )
 }
-
-export default Contents

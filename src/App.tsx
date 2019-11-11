@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-import Main from './containers/environments/Main'
+import { Main } from './containers/environments/Main'
 
 const App: React.FC = () => {
   return (

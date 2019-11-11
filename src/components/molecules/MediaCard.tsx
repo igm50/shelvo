@@ -33,7 +33,7 @@ interface Props {
   title: string
 }
 
-const MediaCard: React.FC<Props> = props => {
+export const MediaCard: React.FC<Props> = props => {
   const rootClasses = useRootStyles()
   const bookDisplayClasses = useLimitedStyles()
 
@@ -75,5 +75,3 @@ const MediaCard: React.FC<Props> = props => {
     </Card>
   )
 }
-
-export default MediaCard
