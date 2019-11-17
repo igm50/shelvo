@@ -1,21 +1,135 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots Organisms/BookEditor Sample 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-5 makeStyles-root-1"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-9 MuiPaper-rounded"
+  >
+    <img
+      className="MuiCardMedia-root makeStyles-media-10 MuiCardMedia-media"
+      src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    />
+    <div
+      className="MuiCardContent-root makeStyles-content-11"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6"
+      >
+        サンプルタイトル
+      </h6>
+      サンプルコメント
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-73"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-74 makeStyles-input-2"
+    >
+      <div
+        className="MuiFormControl-root MuiTextField-root"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink={true}
+        >
+          コメント編集
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-multiline MuiOutlinedInput-multiline"
+          onClick={[Function]}
+        >
+          <textarea
+            aria-invalid={false}
+            className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline MuiOutlinedInput-inputMultiline"
+            defaultValue="サンプルコメント"
+            disabled={false}
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            rows={3}
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-133 MuiOutlinedInput-notchedOutline"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="PrivateNotchedOutline-legend-134"
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiBox-root MuiBox-root-135 makeStyles-update-3"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          コメント更新
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 <div
   className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
 >
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -27,17 +141,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -49,17 +163,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -71,17 +185,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -93,17 +207,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -115,17 +229,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -137,17 +251,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -159,17 +273,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -181,17 +295,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -203,17 +317,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -225,17 +339,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -247,17 +361,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -269,17 +383,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -291,17 +405,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -313,17 +427,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -335,17 +449,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -357,17 +471,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -379,17 +493,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -401,17 +515,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -423,17 +537,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -445,17 +559,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -467,17 +581,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -489,17 +603,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -511,17 +625,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -533,17 +647,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -555,17 +669,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -577,17 +691,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -599,17 +713,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -621,17 +735,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -643,17 +757,17 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-109 MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation0 MuiCard-root makeStyles-root-264 MuiPaper-rounded"
     >
       <img
-        className="MuiCardMedia-root makeStyles-media-110 MuiCardMedia-media"
+        className="MuiCardMedia-root makeStyles-media-265 MuiCardMedia-media"
         src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       />
       <div
-        className="MuiCardContent-root makeStyles-content-111"
+        className="MuiCardContent-root makeStyles-content-266"
       >
         <h6
           className="MuiTypography-root MuiTypography-h6"
@@ -665,7 +779,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
     </div>
   </div>
   <div
-    className="MuiGrid-root makeStyles-root-1 MuiGrid-item"
+    className="MuiGrid-root makeStyles-root-156 MuiGrid-item"
   >
     <button
       className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary"
@@ -707,7 +821,7 @@ exports[`Storyshots Organisms/BookShelf Sample 1`] = `
 
 exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
 <div
-  className="MuiBox-root MuiBox-root-195"
+  className="MuiBox-root MuiBox-root-350"
 >
   <h5
     className="MuiTypography-root MuiTypography-h5"
@@ -718,7 +832,7 @@ exports[`Storyshots Organisms/GoogleBookSearch Sample 1`] = `
     className="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"
   >
     <div
-      className="MuiInputBase-root makeStyles-input-226"
+      className="MuiInputBase-root makeStyles-input-381"
       onClick={[Function]}
     >
       <input
@@ -811,14 +925,14 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
   className="MuiList-root MuiList-padding"
 >
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-340 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-495 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-341 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-496 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
-      className="MuiCardContent-root makeStyles-content-342"
+      className="MuiCardContent-root makeStyles-content-497"
     >
       <h6
         className="MuiTypography-root MuiTypography-h6"
@@ -857,14 +971,14 @@ exports[`Storyshots Organisms/GoogleBookSummaryList Present Books 1`] = `
     </div>
   </div>
   <div
-    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-340 MuiPaper-rounded"
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-495 MuiPaper-rounded"
   >
     <img
-      className="MuiCardMedia-root makeStyles-media-341 MuiCardMedia-media"
+      className="MuiCardMedia-root makeStyles-media-496 MuiCardMedia-media"
       src="http://books.google.com/books/content?id=jk02tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     />
     <div
-      className="MuiCardContent-root makeStyles-content-342"
+      className="MuiCardContent-root makeStyles-content-497"
     >
       <h6
         className="MuiTypography-root MuiTypography-h6"
