@@ -1,2 +1,8 @@
-# docker run -it --rm -v "$PWD"/server:"$GOPATH"/src/server -w "$GOPATH"/src/server -p 8081:8081 --name shelvo-server golang:1.13.4-alpine3.10 /bin/ash
+# docker run -it -v "$PWD"/server:/go/src/server -w /go/src/server -p 8081:8081 --name shelvo-server golang:1.13.4-alpine3.10 /bin/ash
 FROM golang:1.13.4-alpine3.10
+
+WORKDIR /go/src/server
+
+RUN apk update \
+  && apk add git \
+  && go get -u github.com/golang/dep/cmd/dep
